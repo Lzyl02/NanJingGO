@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "345181161122",
+    "firebase_url": "https://nanjinggo-f1f1b-default-rtdb.firebaseio.com",
+    "project_id": "nanjinggo-f1f1b",
+    "storage_bucket": "nanjinggo-f1f1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345181161122:android:01c0ee1b5743a1d17f39fb",
+        "android_client_info": {
+          "package_name": "com.COMP3040.NanjingGo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-Cj_6CtCkjxd8RFh2ZWOYZZOcutML70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
